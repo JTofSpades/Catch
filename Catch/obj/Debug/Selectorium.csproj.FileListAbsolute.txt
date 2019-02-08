@@ -1,0 +1,10 @@
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\bin\Debug\Selectorium.exe.config
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\bin\Debug\Selectorium.exe
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\bin\Debug\Selectorium.pdb
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\obj\Debug\Selectorium.csprojResolveAssemblyReference.cache
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\obj\Debug\Selectorium.Form1.resources
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\obj\Debug\Selectorium.Properties.Resources.resources
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\obj\Debug\Selectorium.csproj.GenerateResource.Cache
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\obj\Debug\Selectorium.csproj.CoreCompileInputs.cache
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\obj\Debug\Selectorium.exe
+C:\Users\Juron Townsend\Desktop\Coding\Csharp\Selectorium\Selectorium\obj\Debug\Selectorium.pdb
